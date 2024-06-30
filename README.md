@@ -5,9 +5,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 ### Credentials
-user@nextmail.com
+• user@nextmail.com
 <br>
-123456
+• 123456
 
 
 ### Getting Started
